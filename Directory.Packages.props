@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="SQLitePCLRaw.bundle_green" Version="2.0.4" />
+  </ItemGroup>
+</Project>
